@@ -1,16 +1,13 @@
-### Hi there 👋
+### olaa,seja bem vindo ao meu perfil 👋
 
-<!--
-**AnaSarah000/AnaSarah000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Ana Sarah
 
-Here are some ideas to get you started:
+-Estou estudando na Alura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+
+![](https://images.app.goo.gl/MWgqwTDmkZqBmtj38)
+
